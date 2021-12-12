@@ -1,3 +1,4 @@
+import "./styles/App.scss";
 import Editor from "../src/components/Editor";
 
 function App() {
